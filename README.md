@@ -1,4 +1,3 @@
-🚀 A collection of 51 Arduino projects, starting from basics like LED blinking to advanced applications. Each day includes code, circuit diagrams, and hardware photos for easy learning and practice.
 # 51 Days Arduino Project 🚀
 
 This repository contains my **51 Days Arduino Learning Journey**.  
